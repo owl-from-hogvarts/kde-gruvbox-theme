@@ -11,14 +11,14 @@ FollowsColorScheme=true
 
 
 # Directory list
-Directories=emblems-scaled,16/devices,16/mimetypes,16/apps,16/places,32/mimetypes,32/places,32/emblems,48/apps,48/mimetypes,48/places,64/devices,64/mimetypes,64/places
+Directories=16/devices,16/mimetypes,16/apps,16/places,16/emblems,emblems-scaled,32/mimetypes,32/places,32/emblems,48/apps,48/mimetypes,48/places,64/devices,64/mimetypes,64/places
 
 #--------------------
 
 [emblems-scaled]
 Context=Emblems
-Size=16
-MinSize=8
+Size=32
+MinSize=23
 MaxSize=512
 Type=Scalable
 
@@ -30,7 +30,6 @@ Size=16
 MinSize=8
 MaxSize=22
 Type=Scalable
-
 
 [16/mimetypes]
 Context=MimeTypes
@@ -48,6 +47,13 @@ Type=Scalable
 
 [16/devices]
 Context=Devices
+Size=16
+MinSize=8
+MaxSize=22
+Type=Scalable
+
+[16/emblems]
+Context=Emblems
 Size=16
 MinSize=8
 MaxSize=22
