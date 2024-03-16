@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg3869"
+   version="1.1"
+   viewBox="0 0 22 22"
+   width="22"
+   height="22"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <style
+     type="text/css"
+     id="current-color-scheme">
+        .ColorScheme-Text {
+            color:#232629;
+        }
+    </style>
+  <g
+     id="go-home"
+     transform="translate(-326,-534.36218)">
+    <path
+       id="rect4180"
+       d="m 326,534.36218 h 22 v 22 h -22 z"
+       fill="none" />
+    <path
+       id="rect4164"
+       d="m 337,537.3622 -8,8 0.70703,0.70703 L 330,545.77626 v 7.58594 h 14 v -7.58594 l 0.29297,0.29297 0.70703,-0.70703 -3,-3 v -3 h -3 l -1.29297,-1.29297 z m 0,1.41406 6,6 v 7.58594 h -4 v -5 h -4 v 5 h -4 v -7.58594 z"
+       class="ColorScheme-Text"
+       fill="currentColor" />
+  </g>
+</svg>

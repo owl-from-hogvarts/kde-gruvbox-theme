@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg7229"
+   viewBox="0 0 22 21.99991"
+   version="1.1"
+   width="22"
+   height="21.99991"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <style
+     type="text/css"
+     id="current-color-scheme">
+        .ColorScheme-Text {
+            color:#232629;
+        }
+        .ColorScheme-NegativeText {
+            color:#da4453;
+        }
+    </style>
+  <g
+     id="media-playback-pause"
+     transform="matrix(1.4999765,0,0,1.4999765,-5.4999308,-1551.0188)">
+    <path
+       id="rect3003-0"
+       d="m 3.666678,1034.0287 h 14.666897 v 14.6668 H 3.666678 Z"
+       fill="none" />
+    <path
+       id="rect3287-9"
+       d="m 12.777771,1036.0463 h 3.555542 v 10.6318 h -3.555542 z m -7.1110849,0 H 9.22223 v 10.6318 H 5.6666861 Z"
+       class="ColorScheme-Text"
+       fill="currentColor" />
+  </g>
+</svg>

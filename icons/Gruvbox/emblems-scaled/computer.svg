@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg2"
+   width="31.999998"
+   height="31.999958"
+   version="1.0"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs5">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background{
+        color:#E9E8E8;
+      }
+      .ColorScheme-ViewText {
+        color:#000000;
+      }
+      .ColorScheme-ViewBackground{
+        color:#ffffff;
+      }
+      .ColorScheme-ViewHover {
+        color:#000000;
+      }
+      .ColorScheme-ViewFocus{
+        color:#5a5a5a;
+      }
+      .ColorScheme-ButtonText {
+        color:#000000;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#E9E8E8;
+      }
+      .ColorScheme-ButtonHover {
+        color:#1489ff;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#2B74C7;
+      }
+</style>
+  </defs>
+  <g
+     transform="matrix(1.09091,0,0,1.09091,-420.98739,-563.78014)"
+     id="computer">
+    <rect
+       y="516.79803"
+       x="385.90479"
+       height="29.333271"
+       width="29.333307"
+       id="rect3018"
+       style="opacity:0.01;fill:#00000f;fill-opacity:0.00392157;stroke:none" />
+    <path
+       style="fill:currentColor;fill-opacity:1;stroke:none"
+       d="M 40,36.011719 V 56 h 11 v 3 h -3 v 1 H 60 V 59 H 57 V 56 H 68 V 36.011719 Z m 1,1 h 26 l 2e-6,16.988249 h -26 z M 52,56 h 4 v 3 h -4 z"
+       transform="matrix(0.9166659,0,0,0.9166659,351.07148,487.46472)"
+       id="path3020"
+       class="ColorScheme-Text" />
+  </g>
+</svg>

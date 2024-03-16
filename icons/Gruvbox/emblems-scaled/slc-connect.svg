@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 22 22"
+   id="svg"
+   version="1.1"
+   width="22"
+   height="22"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs81">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#7B7C7E;
+      }
+      .ColorScheme-Background{
+        color:#EFF0F1;
+      }
+      .ColorScheme-Highlight{
+        color:#3DAEE6;
+      }
+      .ColorScheme-ViewText {
+        color:#7B7C7E;
+      }
+      .ColorScheme-ViewBackground{
+        color:#FCFCFC;
+      }
+      .ColorScheme-ViewHover {
+        color:#3DAEE6;
+      }
+      .ColorScheme-ViewFocus{
+        color:#1E92FF;
+      }
+      .ColorScheme-ButtonText {
+        color:#7B7C7E;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#EFF0F1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3DAEE6;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#1E92FF;
+      }
+</style>
+  </defs>
+  <metadata
+     id="metadata34">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="slc-connect"
+     transform="translate(-1,-1)">
+    <rect
+       style="fill:#ffffff;fill-opacity:0;stroke:none"
+       id="rect3009"
+       width="22"
+       height="22"
+       x="1"
+       y="1" />
+    <path
+       style="fill:currentColor"
+       d="M 14,4 C 13.221497,4.7785032 13.063294,6.1686877 13.96875,7.6875 L 9.7187499,10.53125 C 9.1903432,10.318042 8.6231562,10.159067 8.0624999,10.15625 7.3337401,10.15255 6.6249999,10.375 5.9999999,11 l 3,3 -4,4 -1,2 2,-1 4,-4 L 13,18 c 1.106964,-1.106964 0.964749,-2.507767 0.46875,-3.71875 l 2.84375,-4.25 C 17.831312,10.936706 19.221497,10.778503 20,10 Z"
+       id="rect3845"
+       class="ColorScheme-Text" />
+  </g>
+</svg>

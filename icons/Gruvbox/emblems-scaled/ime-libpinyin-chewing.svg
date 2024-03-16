@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 22 22.000001"
+   version="1.1"
+   id="svg3869"
+   height="22"
+   width="22"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata25">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3871">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+      </style>
+  </defs>
+  <g
+     id="ime-libpinyin-chewing">
+    <path
+       id="path4360"
+       transform="translate(-88,-34)"
+       d="M 91,37 V 37.5 53 h 16 V 37 Z m 2,2 h 6 v 1 h -2 v 3 H 98.5 99 L 98.599609,42.699219 C 98.599609,42.699219 100,40.75 100,39 h 1 c 0,0.708749 -0.16537,1.388658 -0.38281,2 H 102 v -2 h 1 v 2 h 2 v 1 h -2 v 2 h 2 v 1 h -5 v -1 h 2 v -2 h -1.80273 c -0.398628,0.789612 -0.796879,1.300781 -0.796879,1.300781 L 99,43 v 8 H 98.5 94 93 v -8 h 1 v -3 h -1 z m 2,1 v 3 h 1 v -3 z m 0,4 v 3 h -1 v 1 h 3 v 1 h -3 v 1 h 4 v -6 h -1 v 3 h -1 v -3 z m 5,2 h 5 v 5 h -5 v -4.5 z m 1,1 v 3 h 3 v -3 z"
+       style="fill:currentColor;fill-opacity:1;stroke:none"
+       class="ColorScheme-Text" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:none;stroke-linejoin:miter"
+       id="rect4353"
+       width="22"
+       height="22"
+       x="0"
+       y="0" />
+  </g>
+</svg>

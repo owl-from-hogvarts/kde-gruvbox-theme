@@ -1,0 +1,22 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "adhemarks[at]gmail[dot]com",
+                "Name": "adhe"
+            }
+        ],
+        "Category": "",
+        "Dependencies": [
+        ],
+        "Description": "Gruvbox theme for plasma",
+        "EnabledByDefault": true,
+        "Id": "GruvboxPlasma",
+        "License": "LGPL",
+        "Name": "Gruvbox Plasma",
+        "Version": "5.62.0",
+        "Website": ""
+    },
+    "X-Plasma-API": "5.0",
+    "KPackageStructure": "Plasma/LookAndFeel"
+}

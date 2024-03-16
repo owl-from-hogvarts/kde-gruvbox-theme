@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg36"
+   viewBox="0 0 22 22"
+   version="1.1"
+   width="22"
+   height="22"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <style
+     type="text/css"
+     id="current-color-scheme">
+        .ColorScheme-Text {
+            color:#232629;
+        }
+        .ColorScheme-NegativeText {
+            color:#da4453;
+        }
+    </style>
+  <g
+     id="22-22-audio-volume-muted"
+     transform="translate(-66)">
+    <path
+       id="path30"
+       d="M 66,0 H 88 V 22 H 66 Z"
+       fill="none" />
+    <path
+       id="path32"
+       d="m 77,3 -5,5 v 6 l 5,5 h 1 V 3 Z m -8,5 v 6 h 2 V 8 Z"
+       class="ColorScheme-Text"
+       fill="currentColor" />
+    <path
+       id="path34"
+       d="m 83,7 a 4,4 0 0 0 -4,4 4,4 0 0 0 4,4 4,4 0 0 0 4,-4 4,4 0 0 0 -4,-4 z m 0,1 a 3,3 0 0 1 3,3 3,3 0 0 1 -0.557,1.736 L 81.266,8.56 A 3,3 0 0 1 83,8 Z m -2.443,1.264 4.177,4.177 A 3,3 0 0 1 83,14 3,3 0 0 1 80,11 3,3 0 0 1 80.557,9.264 Z"
+       class="ColorScheme-NegativeText"
+       fill="currentColor" />
+  </g>
+</svg>

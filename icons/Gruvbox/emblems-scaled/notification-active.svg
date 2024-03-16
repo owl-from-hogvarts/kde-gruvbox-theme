@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg"
+   viewBox="0 0 22 22"
+   version="1.1"
+   width="22"
+   height="22"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs7" />
+  <style
+     type="text/css"
+     id="current-color-scheme">
+        .ColorScheme-Text {
+            color:#232629;
+        }
+        .ColorScheme-ButtonFocus {
+            color:#3daee9;
+        }
+        .ColorScheme-NegativeText {
+            color:#da4453;
+        }
+    </style>
+  <g
+     id="notification-active"
+     transform="translate(-1,-1)">
+    <path
+       d="M 1,1 H 23 V 23 H 1 Z"
+       fill="none"
+       id="path3" />
+    <path
+       d="M 6.3457031,3.345703 A 7.9999995,7.9999995 0 0 0 4,9 H 5 A 7,7 0 0 1 7.0527344,4.052734 Z m 11.3085939,0 -0.707031,0.707031 A 7,7 0 0 1 19,9 h 1 A 7.9999995,7.9999995 0 0 0 17.654297,3.345703 Z M 16.238281,4.761719 15.529297,5.470703 A 5,5 0 0 1 17,9 h 1 A 6,6 0 0 0 16.238281,4.761719 Z M 7.765625,4.765625 A 6,6 0 0 0 6,9 H 7 A 5,5 0 0 1 8.4667969,5.466797 Z"
+       class="ColorScheme-Text"
+       fill="currentColor"
+       fill-rule="evenodd"
+       id="path4" />
+    <path
+       d="M 10.269531,17 A 2,2 0 0 0 10,18 a 2,2 0 0 0 2,2 2,2 0 0 0 2,-2 2,2 0 0 0 -0.271484,-1 z M 12,4 A 1,1 0 0 0 11,5 1,1 0 0 0 11.0098,5.128906 3.9999999,3.9999999 0 0 0 8,9 c 0,3 -1,4 -3,6 v 1 H 19 V 15 C 17,13 16,12 16,9 A 3.9999999,3.9999999 0 0 0 12.990234,5.128906 1,1 0 0 0 13,5 1,1 0 0 0 12,4 Z m 0,2 a 3,3 0 0 1 3,3 c 0,3 0.585938,4 2.585938,6 H 6.414062 c 2,-2 2.5859375,-3 2.5859375,-6 A 3,3 0 0 1 12,6 Z"
+       class="ColorScheme-Text"
+       fill="currentColor"
+       fill-rule="evenodd"
+       id="path5" />
+  </g>
+</svg>
