@@ -1,3 +1,8 @@
+# DISCLAIMER
+
+> Theme is originally developed by `adhe`.
+> Original project is here: https://www.opencode.net/adhe/gruvboxplasma
+
 # Gruvbox plasma
 
 ## Gruvbox icon theme 
